@@ -13,4 +13,6 @@ Facebook Bruteforce and Wordlist Generation tool
 5. python facebook.py
 #######################################################################################
 lets rock the world............................................  
-more tools **coming sooooooonnnnnn**
+more tools **coming sooooooonnnnnn**  
+#WE ARE NOT RESPONSIBLE FOR ANY ILLEGAL ACTIVITIES USE WITH YOUR OWN RESPONSIBILITY
+#THIS IS FOR EDUCATIONAL PURPOSE ONLY
